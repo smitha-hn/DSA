@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smitha-hn/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
