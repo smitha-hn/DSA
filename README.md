@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smitha-hn/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
