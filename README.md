@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/smitha-hn/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,10 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +103,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
