@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/smitha-hn/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -69,11 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Dynamic Programming
@@ -136,4 +139,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 <!---LeetCode Topics End-->
