@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/smitha-hn/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -121,4 +124,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/smitha-hn/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
