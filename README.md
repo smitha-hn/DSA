@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/smitha-hn/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/smitha-hn/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/smitha-hn/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
