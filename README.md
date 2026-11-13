@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/smitha-hn/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smitha-hn/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0624-maximum-distance-in-arrays](https://github.com/smitha-hn/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/smitha-hn/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/smitha-hn/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
