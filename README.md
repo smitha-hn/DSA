@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/smitha-hn/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/smitha-hn/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitha-hn/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/smitha-hn/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smitha-hn/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/smitha-hn/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -203,4 +206,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/smitha-hn/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
