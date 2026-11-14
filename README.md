@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/smitha-hn/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smitha-hn/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/smitha-hn/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/smitha-hn/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smitha-hn/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/smitha-hn/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/smitha-hn/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/smitha-hn/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
