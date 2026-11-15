@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smitha-hn/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/smitha-hn/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/smitha-hn/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/smitha-hn/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/smitha-hn/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/smitha-hn/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/smitha-hn/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/smitha-hn/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/smitha-hn/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/smitha-hn/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/smitha-hn/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/smitha-hn/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/smitha-hn/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
