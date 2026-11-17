@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/smitha-hn/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/smitha-hn/DSA/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/smitha-hn/DSA/tree/main/0384-shuffle-an-array/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/smitha-hn/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/smitha-hn/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -301,4 +305,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
