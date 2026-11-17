@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smitha-hn/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/smitha-hn/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/smitha-hn/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smitha-hn/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/smitha-hn/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smitha-hn/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/smitha-hn/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smitha-hn/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/smitha-hn/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/smitha-hn/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
