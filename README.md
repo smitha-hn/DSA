@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/smitha-hn/DSA/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/smitha-hn/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -310,4 +313,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/smitha-hn/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/smitha-hn/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
