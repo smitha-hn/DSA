@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/smitha-hn/DSA/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/smitha-hn/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Union-Find
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/smitha-hn/DSA/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/smitha-hn/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/smitha-hn/DSA/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/smitha-hn/DSA/tree/main/0384-shuffle-an-array/) | Medium |
@@ -332,4 +336,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/smitha-hn/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
