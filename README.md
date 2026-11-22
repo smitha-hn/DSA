@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/smitha-hn/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/smitha-hn/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smitha-hn/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/smitha-hn/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/smitha-hn/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/smitha-hn/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smitha-hn/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/smitha-hn/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/smitha-hn/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/smitha-hn/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/smitha-hn/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/smitha-hn/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smitha-hn/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/smitha-hn/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/smitha-hn/DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Lifting
