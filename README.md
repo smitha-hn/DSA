@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/smitha-hn/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0148-sort-list](https://github.com/smitha-hn/DSA/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/smitha-hn/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/smitha-hn/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/smitha-hn/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/smitha-hn/DSA/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/smitha-hn/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/smitha-hn/DSA/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/smitha-hn/DSA/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/smitha-hn/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/smitha-hn/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/smitha-hn/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
