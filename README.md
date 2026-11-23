@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smitha-hn/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/smitha-hn/DSA/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1122-relative-sort-array](https://github.com/smitha-hn/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smitha-hn/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/smitha-hn/DSA/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/smitha-hn/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/smitha-hn/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/smitha-hn/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/smitha-hn/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/smitha-hn/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/smitha-hn/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/smitha-hn/DSA/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/smitha-hn/DSA/tree/main/0384-shuffle-an-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/smitha-hn/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
