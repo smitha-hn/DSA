@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/smitha-hn/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/smitha-hn/DSA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/smitha-hn/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smitha-hn/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/smitha-hn/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/smitha-hn/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/smitha-hn/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/smitha-hn/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smitha-hn/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/smitha-hn/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/smitha-hn/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/smitha-hn/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/smitha-hn/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smitha-hn/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/smitha-hn/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -418,4 +421,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/smitha-hn/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smitha-hn/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smitha-hn/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
